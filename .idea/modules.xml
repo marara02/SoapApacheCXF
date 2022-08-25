@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SoapApacheCXF.iml" filepath="$PROJECT_DIR$/.idea/SoapApacheCXF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoapResponse/SoapResponse.iml" filepath="$PROJECT_DIR$/SoapResponse/SoapResponse.iml" />
+    </modules>
+  </component>
+</project>
